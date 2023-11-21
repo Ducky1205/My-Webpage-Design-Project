@@ -1,0 +1,204 @@
+homeheader h1{
+   margin:50px;
+    padding: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   height: 90 px;
+    width:50%;
+    text-align: center;
+    text-transform: uppercase;
+   text-shadow: 5px 5px 5px purple;
+background-size: auto;
+background-color:lightblue;
+margin-left:260px;
+margin-right:260px;
+}
+
+body{
+    background-image: url('skyline.png');
+    background-position: top center;
+  
+    
+}
+homemain p{
+    text-align: center;
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:xx-large;
+    margin-left:230px;
+    margin-right:230px;
+    border:5px solid rgb(251, 174, 225);
+}
+ul{
+    list-style: none;
+    background-color:#a0ecd0;
+    border:5px solid lightblue;
+    text-align:center;
+    padding: 10px plum;
+    margin-left:260px;
+   margin-right:260px;
+   
+}
+li{
+    display:inline;
+}
+a{
+    text-shadow: 2px 2px 2px white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   border-style:dashed white
+    
+}
+#margin{
+    margin-left:75px;
+    word-spacing:50px;
+    margin-right:75px
+}
+#border{
+    word-spacing: 35px;
+   
+}
+
+main{
+    text-align:center;
+   margin-right:75px;
+   margin-left:75px;
+   
+}
+
+
+c{
+    color: rgb(126, 147, 170);
+   font-style: italic;
+   
+}
+vl{
+    
+    background-color:#a0ecd0;
+   
+}
+h2{
+    font-size:xx-large;
+    background-color: lavender;
+    background-size: 100px;
+    margin:30px ;
+    padding:40px;
+    border:5px solid rgb(210, 167, 210);
+    border-radius: 100px;
+
+  
+   margin-left:230px;
+   margin-right:230px;
+}
+mi{
+    display:list-item;
+    background-color: rgb(236, 209, 236);
+    margin-left:230px;
+   margin-right:230px;
+   
+}
+.aheading h1{ 
+   color: rgb(249, 248, 247);
+   text-align: center;
+   font-family:'Courier New', Courier, monospace;
+   margin: 40px;
+   padding: 50px;
+   background: rgb(174, 221, 174);
+   background-size: auto;
+   margin-left: 200px;
+   margin-right: 200px;
+  font-size: xx-large;
+  border-style:groove;
+  border-color: azure;
+  border-radius: 50%;
+  font-size:60px;
+  margin-top: 15px;
+}
+.amain {
+color: white;
+font-size: x-large;
+padding:30px ;
+background-size:auto ;
+background: lightblue;
+margin-left:200px;
+margin-right:100px;
+font-family:fantasy;
+border-color: rgb(221, 185, 234);
+}
+
+#anav{
+    word-spacing:50px;
+    background-color:rgb(221, 185, 234);
+   border-top: 75px
+}
+#img-1{
+   height: 310px;
+   width: 270px;
+grid-column: 2/3;
+}
+.aheading{
+   
+    background-color:rgb(221, 185, 234);
+}
+
+
+#amain{
+    display: grid;
+    grid-template-columns: 1fr 2fr 3fr;
+    background-color:rgb(221, 185, 234);
+}
+#paragraphcontact p{ 
+   width: 50%;
+   color: white;
+   font-size: x-large;
+   padding:30px ;
+   background-size:auto ;
+   background: lightblue;
+   margin-left:200px;
+   margin-right:100px;
+   font-family:fantasy;
+}
+#paragraphabout p{ 
+    width: 50%;
+    color: white;
+    font-size: x-large;
+    padding:30px ;
+    background-size:auto ;
+    background: lightblue;
+    margin-left:200px;
+    margin-right:100px;
+    font-family:fantasy;
+ }
+#pheader h1{
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    background-color: aliceblue;
+    margin-left:300px;
+    margin-right: 300px;
+    margin-top: 30px;
+    border-radius: 30px;
+    padding:10px;
+    font-size:45px;
+    border:solid rgb(241, 162, 219)
+}
+#pmain img{
+    width: 250px;
+    height:250px;
+    margin-left: 100px;
+    
+}
+#pmain p{
+    background-color:rgb(245, 153, 169);
+    padding:10px ;
+    width:200px;
+    height:220px;
+   margin:40px;
+   border-radius:40px;
+   color:rgb(89, 31, 144);
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border:5px solid rgb(222, 123, 140);
+}
+#pnav{
+    word-spacing:50px;
+   
+   
+}
