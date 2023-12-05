@@ -1,8 +1,8 @@
-homeheader h1{
+#homeheader h1{
    margin:50px;
     padding: 50px;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-   height: 90px;
+   height: 50px;
     width:50%;
     text-align: center;
     text-transform: uppercase;
@@ -19,13 +19,13 @@ body{
   
     
 }
-homemain p{
+#homemain p{
     text-align: center;
     background-color: lightpink;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size:xx-large;
-    margin-left:230px;
-    margin-right:230px;
+    margin-left:250px;
+    margin-right:250px;
     border:5px solid rgb(251, 174, 225);
 }
 ul{
