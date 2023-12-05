@@ -82,11 +82,10 @@ h2{
     padding:40px;
     border:5px solid rgb(210, 167, 210);
     border-radius: 100px;
-
-  
-   margin-left:230px;
-   margin-right:230px;
+ 
 }
+
+    
 mi{
     display:list-item;
     background-color: rgb(236, 209, 236);
@@ -152,9 +151,10 @@ grid-column: 2/3;
    background-size:auto ;
    background: lightblue;
    margin-left:200px;
-   margin-right:100px;
-   font-family:fantasy;
+   margin-right:200px;
+
 }
+
 #paragraphabout p{ 
     width: 50%;
     color: white;
