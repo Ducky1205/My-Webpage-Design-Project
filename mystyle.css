@@ -2,14 +2,14 @@ homeheader h1{
    margin:50px;
     padding: 50px;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-   height: 90 px;
+   height: 90px;
     width:50%;
     text-align: center;
     text-transform: uppercase;
    text-shadow: 5px 5px 5px purple;
 background-size: auto;
 background-color:lightblue;
-margin-left:260px;
+margin-left:300px;
 margin-right:260px;
 }
 
@@ -33,7 +33,7 @@ ul{
     background-color:#a0ecd0;
     border:5px solid lightblue;
     text-align:center;
-    padding: 10px plum;
+    padding: 10px;
     margin-left:260px;
    margin-right:260px;
    
@@ -44,8 +44,8 @@ li{
 a{
     text-shadow: 2px 2px 2px white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-   border-style:dashed white
-    
+   border-style:dashed ;
+    border-top-color: white;
 }
 #margin{
     margin-left:75px;
