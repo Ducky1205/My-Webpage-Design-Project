@@ -82,16 +82,15 @@ h2{
     padding:40px;
     border:5px solid rgb(210, 167, 210);
     border-radius: 100px;
- 
+   margin-left:300px;
+   margin-right:260px;
 }
-
-    
 mi{
     display:list-item;
     background-color: rgb(236, 209, 236);
-    margin-left:230px;
-   margin-right:230px;
-   
+    margin-left:280px;
+   margin-right:280px;
+   border-radius:50px
 }
 .aheading h1{ 
    color: rgb(249, 248, 247);
@@ -150,11 +149,14 @@ grid-column: 2/3;
    padding:30px ;
    background-size:auto ;
    background: lightblue;
-   margin-left:200px;
-   margin-right:200px;
-
+   /*margin-left:200px;
+   margin-right:200px;*/
+   font-family:fantasy;
 }
-
+#paragraphcontact{
+  margin-left:350px;
+   
+}
 #paragraphabout p{ 
     width: 50%;
     color: white;
